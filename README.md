@@ -16,7 +16,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-Email! Telephone! Text! Carrier pigeon! Psychic vibes! Teleportation! Just **contribute**!
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
